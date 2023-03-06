@@ -1,0 +1,8 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma 
+temperatura em Celsius para Fahrenheit ou vice-versa.
+
+1.leia celsius
+2.leia fahrenheit
+3.resultadocelsiusFahrenheit = 1.8*C + 32
+4.resultadofahrenheitCelsius = (fahrenheit-32)/1.8
+5.Escreva resultadocelsiusFahrenheit resultadofahrenheitCelsius
