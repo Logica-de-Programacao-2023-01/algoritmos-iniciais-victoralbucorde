@@ -1,8 +1,9 @@
 Algoritmo de cálculo de média: um algoritmo que calcula a média de uma 
 lista de números.
 
-1.leia a
-2.leia b
-3.leia c
-4.leia d
-5.resultado = (a+b+c+d)/4
+1.leia numeros
+se o usuario usar quebra de linha passe para o proximo passo
+senao leia numeros
+3.leia lista de numeros
+4.leia quantidade da lista
+5.resultado = numeros/quantidade da lista
