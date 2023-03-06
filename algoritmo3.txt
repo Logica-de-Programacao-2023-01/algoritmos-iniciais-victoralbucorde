@@ -1,0 +1,8 @@
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma 
+lista de números.
+
+1.leia a
+2.leia b
+3.leia c
+4.leia d
+5.resultado = (a+b+c+d)/4
